@@ -1,7 +1,7 @@
 class Pirate
   attr_accessor :name, :weight, :height
   
-  def initialize(details)
+  def initialize(params)
     @name = name 
     @weight = weight 
     @height = height
